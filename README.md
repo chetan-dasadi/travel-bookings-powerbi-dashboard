@@ -4,6 +4,8 @@ Interactive Power BI dashboard analyzing ~1,000 travel bookings to uncover reven
 
 An interactive Power BI dashboard that analyzes ~1,000 travel bookings to help online travel platforms grow revenue and understand traveler behavior.
 
+![Dashboard Overview](screenshots/dashboard-overview.png)
+
 ## Business Questions
 - How can online travel platforms increase revenue?
 - Which destinations, travel modes, and payment methods drive bookings?
