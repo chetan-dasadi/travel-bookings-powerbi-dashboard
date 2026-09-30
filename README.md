@@ -1,10 +1,10 @@
-# travel-bookings-powerbi-dashboard
-Interactive Power BI dashboard analyzing ~1,000 travel bookings to uncover revenue trends, top destinations, payment preferences, and cancellation drivers, built with DAX and data modelling.
 # Travel Bookings Analytics Dashboard (Power BI)
 
 An interactive Power BI dashboard that analyzes ~1,000 travel bookings to help online travel platforms grow revenue and understand traveler behavior.
 
-![Travel Bookings Analytics Dashboard Overview](screenshots/dashboard-overview.png)
+<p align="center">
+  <img src="screenshots/dashboard-overview.png" alt="Travel Bookings Analytics Dashboard Overview" width="100%" />
+</p>
 
 ## Business Questions
 - How can online travel platforms increase revenue?
